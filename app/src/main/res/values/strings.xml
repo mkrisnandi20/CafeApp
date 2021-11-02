@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signin_label">Sign In</string>
+    <string name="deskripsi_kopi">Kopi hitam ternyata memiliki segudang manfaat untuk tubuh jika dikonsumsi sebagaimanana mestinya. Bermanfaat untuk kesahatan karena kopi hitam mengandung antioksidan dan nutrisi.</string>
+    <string name="back_label">Kembali</string>
+
+    <string-array name="title_menu">
+        <item>Kopi Hitam</item>
+        <item>Cappuchino</item>
+        <item>Batagor</item>
+        <item>Black Salad</item>
+        <item>Cheesecake</item>
+        <item>Cireng</item>
+        <item>Donut</item>
+        <item>Mie Goreng</item>
+        <item>Nasgor</item>
+        <item>Nasi Goreng</item>
+        <item>Sparkling Tea</item>
+    </string-array>
+
+    <string-array name="prices_menu">
+        <item>Rp. 10.000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 15.000</item>
+        <item>Rp. 12.000</item>
+        <item>Rp. 25.000</item>
+        <item>Rp. 5.000</item>
+        <item>Rp. 8.000</item>
+        <item>Rp. 7.000</item>
+        <item>Rp. 11.000</item>
+        <item>Rp. 12.500</item>
+        <item>Rp. 9.000</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Kopi hitam ternyata memiliki segudang manfaat untuk tubuh jika dikonsumsi sebagaimanana mestinya. Bermanfaat untuk kesahatan karena kopi hitam mengandung antioksidan dan nutrisi.</item>
+        <item>Cappuchino minuman khas Italia yang dibuat dari espreso dan susu, tetapi referensi lain juga ada yang menyebutkan bahwa kapucino berawal dari biji biji kopi tentara Turki yang tertinggal setelah peperangan yang di pimpin oleh Kara Mustapha Pasha di Wina, Austria melawan tentara gabungan Polandia-Germania.</item>
+        <item>Batagor merupakan jajanan khas Bandung yang mengadaptasi gaya Tionghoa-Indonesia dan kini sudah dikenal hampir di seluruh wilayah Indonesia.</item>
+        <item>Black Salad buah ini sudah sukses melumeri Yogyakarta dengan rasa manisnya hingga 6 cabang dan akan merambah Pontianak dan Semarang.</item>
+        <item>Cheesecake adalah kue yang biasanya dimakan sebagai hidangan penutup, dibuat dengan mencampurkan keju yang bertekstur lembut, telur, susu, dan gula.</item>
+        <item>Cireng adalah makanan ringan yang berasal dari daerah Sunda yang dibuat dengan cara menggoreng campuran adonan yang berbahan utama tepung kanji atau tapioka. Makanan ringan ini sangat populer di daerah Priangan, dan dijual dalam berbagai bentuk dan variasi rasa. Makanan ini cukup terkenal pada era 80-an.</item>
+        <item>Donat adalah penganan yang digoreng, dibuat dari adonan tepung terigu, gula, telur, dan mentega. Donat yang paling umum adalah donat berbentuk cincin dengan lubang di tengah dan donat berbentuk bundar dengan isian manis, seperti selai, jelly, krim, dan custard.</item>
+        <item>Mi goreng berarti "mi yang digoreng" adalah makanan yang berasal dari Indonesia yang populer dan juga digemari di Malaysia, dan Singapura.</item>
+        <item>Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega. Biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya; seperti telur, ayam, dan kerupuk.</item>
+        <item>Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega. Biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya; seperti telur, ayam, dan kerupuk.</item>
+        <item>Rp. 9.000</item>
+    </string-array>
+</resources>
